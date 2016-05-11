@@ -1,0 +1,125 @@
+{
+	"homer": {
+		"low": {
+			"marge": 1,
+			"bart": 3,
+			"lisa": 3,
+			"maggie": 1
+		},
+		"medium": {
+			"marge": 2.5,
+			"bart": 3,
+			"lisa": 2.5,
+			"maggie": 2
+		},
+		"high": {
+			"marge": 2.5,
+			"bart": 2,
+			"lisa": 2,
+			"maggie": 2
+		}
+	},
+	"marge": {
+		"low": {
+			"homer": 1,
+			"bart": 0,
+			"lisa": 0,
+			"maggie": 1
+		},
+		"medium": {
+			"homer": 2.5,
+			"bart": 2.5,
+			"lisa": 2.5,
+			"maggie": 2
+		},
+		"high": {
+			"homer": 2.5,
+			"bart": 2.5,
+			"lisa": 2.5,
+			"maggie": 2
+		}
+	},
+	"bart": {
+		"low": {
+			"homer": 0,
+			"marge": 0,
+			"lisa": 2,
+			"maggie": 1
+		},
+		"medium": {
+			"homer": 3,
+			"marge": 2.5,
+			"lisa": 2.5,
+			"maggie": 2
+		},
+		"high": {
+			"homer": 1.5,
+			"marge": 2.5,
+			"lisa": 2.5,
+			"maggie": 2
+		}
+	},
+	"lisa": {
+		"low": {
+			"homer": 0,
+			"marge": 0,
+			"bart": 0,
+			"maggie": 1
+		},
+		"medium": {
+			"homer": 2.5,
+			"marge": 2.5,
+			"bart": 2,
+			"maggie": 2
+		},
+		"high": {
+			"homer": 2,
+			"marge": 2.5,
+			"bart": 2.5,
+			"maggie": 2
+		}
+	},
+	"maggie": {
+		"low": {
+			"homer": 2,
+			"marge": 2,
+			"bart": 2,
+			"lisa": 2
+		},
+		"medium": {
+			"homer": 0,
+			"marge": 0,
+			"bart": 0,
+			"lisa": 0
+		},
+		"high": {
+			"homer": 2.5,
+			"marge": 2.5,
+			"bart": 2.5,
+			"lisa": 2.5
+		}
+	},
+	"sentiment": {
+		"low": {
+			"homer": 2,
+			"marge": 2,
+			"bart": 3,
+			"lisa": 2,
+			"maggie": 2
+		},
+		"medium": {
+			"homer": 3,
+			"marge": 2.5,
+			"bart": 2.5,
+			"lisa": 2.5,
+			"maggie": 2
+		},
+		"high": {
+			"homer": 3,
+			"marge": 3,
+			"bart": 2,
+			"lisa": 2.5,
+			"maggie": 2
+		}
+	}
+}
