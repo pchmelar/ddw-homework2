@@ -20,6 +20,6 @@ There are three graphs for every character. They differ in the occurrence of tha
 
 ## Conclusion
 
-- higher occurrence of Bart in the episodes with low level of sentiment (those episodes are probably more violant/vulgar)
+- higher occurrence of Bart in the episodes with low level of sentiment (those episodes are probably more violent/vulgar)
 - higher occurrence of Homer and Marge in the episodes with high level of sentiment (more romantic)
 
