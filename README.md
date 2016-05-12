@@ -11,7 +11,7 @@ Live demo: http://pchmelar.cz/ddw
 
 ## Description of graphs
 
-There are three graphs for every character. They differ in the occurence of that character in the episodes (low/medium/high). Graphs shows occurence of other characters in those episodes (0 for none, 1 for low, 2 for medium, 3 for high). Furthermore, there are three more graphs which shows occurence of characters in episodes with low/medium/high sentiment level.
+There are three graphs for every character. They differ in the occurrence of that character in the episodes (low/medium/high). Graphs shows occurrence of other characters in those episodes (0 for none, 1 for low, 2 for medium, 3 for high). Furthermore, there are three more graphs which shows occurrence of characters in episodes with low/medium/high sentiment level.
 
 ## Screenshots
 
@@ -20,6 +20,6 @@ There are three graphs for every character. They differ in the occurence of that
 
 ## Conclusion
 
-- higher occurence of Bart in the episodes with low level of sentiment (those episodes are probably more violant/vulgar)
-- higher occurence of Homer and Marge in the episodes with high level of sentiment (those episodes are probably more romantic)
+- higher occurrence of Bart in the episodes with low level of sentiment (those episodes are probably more violant/vulgar)
+- higher occurrence of Homer/Marge in the episodes with high level of sentiment (those episodes are probably more romantic)
 
